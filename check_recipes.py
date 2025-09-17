@@ -17,6 +17,9 @@ for path in paths:
     if not instructions_re.search(path.read_text()):
         print(f'File {path} is missing a section: "## Instructions"')
         errors += 1
+    if not tools_re.search(path.read_text()):
+        print(f'File {path} is missing a section: "## TOOLS"')
+        errors += 1
 
 if errors:
     sys.exit(1)
