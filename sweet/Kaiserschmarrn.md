@@ -8,14 +8,14 @@ mixer
 bowl
 
 ## Ingredients:
-140g flour
-250ml milk
-5 eggs
-45g sugar
-some raisins
-1pinch salt
-some powdered sugar
-as much butter as you like/need for frying
+- 140g flour
+- 250ml milk
+- 5 eggs
+- 45g sugar
+- some raisins
+- 1pinch salt
+- some powdered sugar
+- as much butter as you like/need for frying
 
 ## Instructions
 1. seperate the eggs
