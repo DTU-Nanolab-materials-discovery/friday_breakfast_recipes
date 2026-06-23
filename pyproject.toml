@@ -1,15 +1,15 @@
-[ruff]
+[tool.ruff]
 # Exclude common directories
 exclude = [".git", ".venv", "venv", "__pycache__", ".pytest_cache"]
 
 # Set the line length
 line-length = 88
 
-[lint]
+[tool.ruff.lint]
 # Enable ruff's default rules plus common Python best practices
 select = ["E", "F", "W"]
 
-# E: pyco   destyle errors
+# E: pycodestyle errors
 # F: Pyflakes
 # W: pycodestyle warnings
 # 

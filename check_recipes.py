@@ -1,5 +1,4 @@
 #add checks parsing the md files
-import glob
 from pathlib import Path
 import re
 import sys
