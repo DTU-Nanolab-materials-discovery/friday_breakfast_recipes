@@ -1,7 +1,7 @@
 # add checks parsing the md files
-from pathlib import Path
 import re
 import sys
+from pathlib import Path
 
 title_re = re.compile("^# + ", re.MULTILINE)
 ingredients_re = re.compile("^#+ +ingredients", re.IGNORECASE | re.MULTILINE)
