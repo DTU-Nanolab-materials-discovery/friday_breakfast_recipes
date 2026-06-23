@@ -1,4 +1,4 @@
-#add checks parsing the md files
+# add checks parsing the md files
 from pathlib import Path
 import re
 import sys
