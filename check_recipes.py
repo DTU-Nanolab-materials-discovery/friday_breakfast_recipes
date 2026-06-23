@@ -3,7 +3,7 @@ import re
 import sys
 from pathlib import Path
 
-title_re = re.compile("^# + ", re.MULTILINE)
+title_re = re.compile("^# +", re.MULTILINE)
 ingredients_re = re.compile("^#+ +ingredients", re.IGNORECASE | re.MULTILINE)
 instructions_re = re.compile("^#+ +instructions", re.IGNORECASE | re.MULTILINE)
 tools_re = re.compile("^#+ +tools", re.IGNORECASE | re.MULTILINE)
