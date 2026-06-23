@@ -1,11 +1,11 @@
-[tool.ruff]
+[ruff]
 # Exclude common directories
 exclude = [".git", ".venv", "venv", "__pycache__", ".pytest_cache"]
 
 # Set the line length
 line-length = 88
 
-[tool.ruff.lint]
+[lint]
 # Enable ruff's default rules plus common Python best practices
 select = ["E", "F", "W"]
 
