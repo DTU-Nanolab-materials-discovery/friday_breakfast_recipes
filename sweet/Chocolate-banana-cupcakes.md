@@ -1,5 +1,5 @@
 # Chocolate Banana Cupcakes
-## description
+## Description
 What makes Banana-bread better? Right Chocolate! 
 
 ## Tools
@@ -10,7 +10,7 @@ bowl
 cupcake shapes
 oven
 
-## Ingredients:
+## ingredients:
 - 250g Butter
 - 300g Sugar
 - 5 Eggs
