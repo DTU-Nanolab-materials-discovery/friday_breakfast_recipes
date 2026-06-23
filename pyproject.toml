@@ -5,14 +5,23 @@ exclude = [".git", ".venv", "venv", "__pycache__", ".pytest_cache"]
 # Set the line length
 line-length = 88
 
-[tool.ruff.lint]
-# Enable ruff's default rules plus common Python best practices
-select = ["E", "F", "W"]
 
-# E: pycodestyle errors
-# F: Pyflakes
-# W: pycodestyle warnings
-# 
+# Enable ruff's default rules plus common Python best practices
+[tool.ruff.lint]
+select = [
+    # pycodestyle
+    "E",
+    # Pyflakes
+    "F",
+    # pyupgrade
+    "UP",
+    # isort
+    "I",
+    # pylint
+    "PL",
+]
+
+ 
 # Add more rule categories as needed:
 # - "I" for isort (import sorting)
 # - "C90" for McCabe complexity
