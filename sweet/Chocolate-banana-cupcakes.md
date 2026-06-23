@@ -1,5 +1,5 @@
-## Chocolate Banana Cupcakes
-## Description
+# Chocolate Banana Cupcakes
+## description
 What makes Banana-bread better? Right Chocolate! 
 
 ## Tools
