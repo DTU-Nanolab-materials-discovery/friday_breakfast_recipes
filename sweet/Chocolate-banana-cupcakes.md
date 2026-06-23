@@ -10,7 +10,7 @@ bowl
 cupcake shapes
 oven
 
-## ingredients:
+
 - 250g Butter
 - 300g Sugar
 - 5 Eggs
