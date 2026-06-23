@@ -9,7 +9,7 @@ line-length = 88
 # Enable ruff's default rules plus common Python best practices
 select = ["E", "F", "W"]
 
-# E: pyco   destyle errors
+# E: pycodestyle errors
 # F: Pyflakes
 # W: pycodestyle warnings
 # 
