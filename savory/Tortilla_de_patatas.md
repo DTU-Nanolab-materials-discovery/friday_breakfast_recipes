@@ -27,4 +27,4 @@
 8. Grab a plate or a lid or a special tool to turn omelettes and flip it.
 9. Pour back (in the same plane, do not be a brute, slid it back) into the pan.
 10. Wait until it looks set (this is experience and pan-based). Time depends on how liquid vs. done you like it. You can poke it with a stick to check if panicking.
-11. Welcome to hispanity, you are now part of the local inquisition brigade.
+11. Welcome to hispanity, you are now part of the local inquisition brigade. This is anonymous and non-optional, if you are Andrea, get over it.
