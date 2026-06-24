@@ -6,9 +6,11 @@
 
 ## INGREDIENTS
 - Alba
+- salt
 
 ## INSTRUCTIONS
 - Put Alba on the Alba-holder
+- Lightly cover Alba in salt
 - Turn on the flamethrower
 - Wait until Alba turns dark brown
 - Take Alba off the Alba-holder
