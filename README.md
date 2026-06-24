@@ -1,4 +1,7 @@
 # friday_breakfast_recipes
+
+Rock'n'roll!!!!
+_______________________________
 A folder where we can collect recepies loved by the group andtypically known from our breakfast. 
 This project was inspirec by an exercise from coderefinery: https://github.com/cr-workshop-exercises/recipe-book
 
