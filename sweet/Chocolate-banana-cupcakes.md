@@ -17,7 +17,7 @@ oven
 - 4 Bananas
 - 600g Flour
 - 4Tsp baking powder 
-- 1-2 tsp vanilla extract (or 1 packet vanilla sugar)
+- 1-2 tsp vanilla extract 
 - 1 pinch of salt
 - 300g chocolate (dark, milk, or mixed)
 
