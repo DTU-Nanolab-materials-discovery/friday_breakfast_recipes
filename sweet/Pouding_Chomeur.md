@@ -2,7 +2,7 @@
 # Pouding Chomeur
 
 ## Tools
-Non-stick firkantet form R
+Non-stick firkantet form
 Pots
 Bowl 
 Fork 
