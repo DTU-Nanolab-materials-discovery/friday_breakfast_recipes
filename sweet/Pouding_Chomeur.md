@@ -1,7 +1,7 @@
 
-#Pouding Chomeur
+# Pouding Chomeur
 
-##Tools
+## Tools
 Non-stick firkantet form R
 Pots
 Bowl 
@@ -25,7 +25,7 @@ Stand Mixer
 1 egg
 90 mL (6 tablespoons) milk
 
-## Instruction 
+## Instructions
 ### Sauce
 Position the oven rack in the center of the oven and preheat to 180°C (350°F).
 In a small saucepan, combine all the sauce ingredients and bring to a boil, whisking continuously.
