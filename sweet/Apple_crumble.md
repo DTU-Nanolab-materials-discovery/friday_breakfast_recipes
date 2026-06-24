@@ -1,6 +1,7 @@
-### Ingredients 
+# Apple Crumble
+## Ingredients 
 
-## for the filling 
+### for the filling 
 
 6 big apples (Belle de Boskoo)
 4 tea spoons sugar 
@@ -9,7 +10,7 @@
 10 gr butter (for oiling the pan)
 1 table spoon vanila sugar
 
-## for the crumble 
+### for the crumble 
 
 100 gr flour
 80 gr oats
@@ -18,9 +19,12 @@
 150 gr light Brown Sugar
 170 gr salted Butter (Cut into cubes)
 
-### Instructions
+## Instructions
 
-## Filling 
+## Tools
+???
+
+### Filling 
 
 Pre heat the oven to 200 C
 
@@ -33,7 +37,7 @@ Press the apple mixture into an even layer.
 bake for 15 minutes.
 
 
-## Crumble
+### Crumble
 
 Mix all crumble ingredients until the butter is fully immersed and you have chunks of dough.
 Take the apples out of the oven
