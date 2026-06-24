@@ -6,6 +6,7 @@ makin pancakes makin bacon pancakes
 wait no, its not bacon pancakes, its banana pancakes, from SWEEEEDEEEEN
 
 they are healthy and i make them for breakfast bc i forget to eat my bananas and they get brown but apparently Alba prefers this
+hi
 
 ## Tools
 food processor or blender
